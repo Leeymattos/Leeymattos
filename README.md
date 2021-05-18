@@ -1,16 +1,31 @@
-### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Leeymattos)
 
-<!--
-**Leeymattos/Leeymattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+</h2>
 
-Here are some ideas to get you started:
+<p>
+  <b>I'm Computer Engineer Student at CEFET-RJ 🎓 and Full Stack Developer 💻</b> 
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+  📌 <b>Living in <b>Rio de Janeiro, Brazil</b> 
+</p>
+
+<p>
+  🌱 <b>I am currently studying:  Node.js, ReactJS, React Native and TypeScript</b>
+</p>
+
+---
+
+<h2>Languages / Technologies / Tools:</h2>
+
+---
+
+<details>
+  <summary> <b> Things to know about me! </b> <i> (click to expand!)</i> </summary>
+  <br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username =&show_icons=true&theme=radical)
+</details>
